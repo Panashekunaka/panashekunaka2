@@ -1,0 +1,17 @@
+WhatsApp MD user bot
+Setup
+Click SCAN and scan QR through Whatsapp Linked Devices Option in Your whatsapp App.
+
+You will get a session id in whatsapp, copy id only.
+
+If You don't have a account in Heroku, Create a account.
+
+Click FORK
+
+Now DEPLOY
+
+WhatsApp
+
+Thanks To
+Yusuf Usta for WhatsAsena
+@adiwajshing for Baileys
